@@ -1,0 +1,70 @@
+header{
+    text-align: right;
+    color: lightgrey;
+    background: white;
+    width:100%;
+    font-family: 'Georgia', Times,"Times New Roman", serif;
+     
+}
+
+h1{
+    float: left;
+    width: 20%;
+    color: white;
+    background: teal;
+    padding: 40px 30px 40px 30px;
+    margin-top: 20px;
+    
+}
+
+#am{
+    color: teal;
+    background: white;
+    text-align: left;
+    width: 93%;
+    border-bottom: 2px solid whitesmoke;
+   
+}
+
+nav{
+    width:90%;
+    margin-bottom: 50px;
+    padding: 60px 30px 30px 30px;
+    background-color:white;
+    color:grey;
+    text-align:right;   
+}
+body{
+    background-image:url("papyrus.png");
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
+.center{
+   display: inline-block;
+   background-color: white;
+   border:1px;
+border-style:solid;
+border-color:black;
+padding-left:20px;
+text-align: center;
+background-color: white;
+margin-left:300px;
+width:960px;
+   
+}
+img{
+    float:left;
+    
+}
+
+a{
+    color:grey;
+}
+
+.top{
+    display:inline;
+}
+footer{
+    color:#333;
+}
